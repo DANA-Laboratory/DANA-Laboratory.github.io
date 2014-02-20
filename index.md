@@ -167,4 +167,4 @@ C_Sharp|[ ]|[ ]|[X]|[X]|[X]|[X]|[X]
 ##6. مثالها
 
 
-**For Developers: [View all appendices](http://github.com/vimalaad/) (and source)**‎
+**For Developers: [View all appendices](http://github.com/{{ site.repo_name }}/) (and source)**‎
