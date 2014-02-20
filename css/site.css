@@ -3,7 +3,6 @@
 body {
   font-family: "Noto Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 14px;
-  margin: 0;
 }
 ul a[rel="footnote"] {
   font-size: 75%;
@@ -188,7 +187,7 @@ background-color : #e3e3e3;
   *margin-right: .3em;
   line-height: 14px;
   vertical-align: text-top;
-  background-image: url("../img/glyphicons-halflings.png");
+  background-image: url("../assets/img/glyphicons-halflings.png");
   background-position: 14px 14px;
   background-repeat: no-repeat;
   margin-top: 1px;
@@ -211,7 +210,7 @@ background-color : #e3e3e3;
 .dropdown-submenu:focus > a > [class^="icon-"],
 .dropdown-submenu:hover > a > [class*=" icon-"],
 .dropdown-submenu:focus > a > [class*=" icon-"] {
-  background-image: url("../img/glyphicons-halflings-white.png");
+  background-image: url("../assets/img/glyphicons-halflings-white.png");
 }
 .icon-glass {
   background-position: 0      0;
@@ -668,12 +667,21 @@ background-color : #e3e3e3;
   body {
     padding-left: 0;
     padding-right: 0;
-    padding-top:0;
   }
 }
 @media (min-width: 980px) {
   body {
-    background: url("../img/seal.png") no-repeat fixed 80% 90% transparent;
-    padding: 0;
+    background: url("../assets/img/seal.png") no-repeat fixed 80% 90% transparent;
+    padding-top: 50px;
+    padding-bottom: 30px;
   }
+}
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+  margin: 5px 0;
 }
