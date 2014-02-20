@@ -3,7 +3,8 @@ published: true
 permalink: /
 layout: hero
 filename: index.md
-title: DANA Laboratory for process modeling 
+title: آزمایشگاه مدلسازی فرآیند دانا
+desc: آزمایشگاه دانا، یک پروژه متن باز جهت توسعه نرم افزار مدلسازی فرآیند، براساس معادلات و با اهداف آموزشی می باشد
 ---
 [![Go to server website](/assets/img/DANA_ServerSmall.png "DANA-Laboratory Client Site")](/DANA-Laboratory.jl)
 [![Go to client website](/assets/img/DANA_ClientSmall.png "DANA-Laboratory Server Site")](/DANA-Laboratory.java)
