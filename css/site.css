@@ -1,6 +1,5 @@
-
 body {
-  font-family: Arial,sans-serif;
+  font-family: tahoma,Arial,sans-serif;
 }
 h1 {
   font-size: 28px;
@@ -15,14 +14,9 @@ h2 {
 }
 
 .hero-unit.home {
-  background-color: none;
   border-bottom: 1px solid #BC9E5F;
-  margin-bottom: 0;
   padding: 10px;
   text-align: center;
-  -webkit-border-radius: 0;
-  -moz-border-radius: 0;
-  border-radius: 0;
 }
 
 body {
