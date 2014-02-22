@@ -42,10 +42,6 @@ a:hover {
   color: #E74338;
   text-decoration: underline;
 }
-ol, ul {
-  margin:0;
-  padding: 0 0 0 20px;
-}
 
 .hero-unit.home {
   background-color: none;
