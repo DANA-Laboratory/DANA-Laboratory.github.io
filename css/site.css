@@ -42,6 +42,23 @@ ol, ul {
 #header {
   background-color: #002a5b;
 }
+.hero-unit.home {
+  background-color: none;
+  border-bottom: 1px solid #BC9E5F;
+  margin-bottom: 0;
+  padding: 10px;
+  text-align: center;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+}
+.hero-unit.home h1 {
+  font-size: 40px;
+  font-weight: bold;
+  letter-spacing: 10px;
+  line-height: 36px;
+  text-transform: uppercase;
+}
 body {
   background: url("../assets/img/seal.png") no-repeat fixed 80% 90% transparent;
   padding-top: 70px;
