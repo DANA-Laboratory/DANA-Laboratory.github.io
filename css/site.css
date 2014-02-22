@@ -1,3 +1,36 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Noto+Sans:400,700);
+
+body {
+  font-family: "Noto Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 14px;
+}
+ul a[rel="footnote"] {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  top: -0.5em;
+  vertical-align: baseline;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+   font-family: "Roboto Slab", Georgia, serif;
+   font-weight: normal;
+}
+h1 {
+  border-bottom: none;
+  line-height: 30px;
+  font-size: 28px;
+}
+h2 {
+  font-size: 20px;
+  line-height: 24px;
+  margin-top: 40px;
+}
+
 .container-fluid {
   margin: 0 auto;
   max-width: 720px;
