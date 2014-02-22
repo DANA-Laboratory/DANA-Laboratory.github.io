@@ -7,13 +7,15 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: IranNastaliq
+  font-family: sans-serif
 }
 h1 {
-  font-size: 24px;
+  font-family: IranNastaliq
+  font-size: 40px;
 }
 h2 {
-  font-size: 20px;
+  font-family: IranNastaliq
+  font-size: 30px;
 }
 .container-fluid {
   margin: 0 auto;
