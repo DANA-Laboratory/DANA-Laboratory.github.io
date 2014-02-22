@@ -1,14 +1,12 @@
 @import url(http://awebfont.ir/fonts?cat_id=16&file_id=2028&file_type=ttf);
 
 body {
-  font-family: tahoma,Arial,sans-serif;
+  font-family: 'Afra Light',Arial,sans-serif;
 }
 h1 {
-  font-family:titr
   font-size: 28px;
 }
 h2 {
-  font-family:titr
   font-size: 20px;
 }
 .container-fluid {
