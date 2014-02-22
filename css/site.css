@@ -24,7 +24,24 @@ hr {
   border-bottom: 1px solid #BC9E5F;
   margin-top: 40px;
 }
+a:link { transition: all 0.75s ease 0s; }
+a:hover {
+  color: #E74338;
+  text-decoration: underline;
+}
+ol, ul {
+  margin:0;
+  padding: 0 0 0 20px;
+}
+.container-fluid {
+  margin: 0 auto;
+  max-width: 720px;
+  padding: 0 10px;
+}
 
+#header {
+  background-color: #002a5b;
+}
 body {
   background: url("../assets/img/seal.png") no-repeat fixed 80% 90% transparent;
   padding-top: 70px;
