@@ -12,6 +12,9 @@ h2 {
   margin: 0 auto;
   max-width: 720px;
   padding: 0 10px;
+  border-bottom: 1px solid #BC9E5F;
+  text-align: center;
+
 }
 
 .hero-unit.home {
