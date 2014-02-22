@@ -1,4 +1,5 @@
 body {
+  background: url("../assets/img/seal.png") no-repeat fixed 80% 90% transparent;
   padding-top: 70px;
   padding-bottom: 30px;
 }
