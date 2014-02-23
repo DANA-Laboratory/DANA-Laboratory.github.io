@@ -7,12 +7,11 @@ h2
   font-family: nazanin,'courier new',tahoma;
 }
 h1 {
-  font-size: 24px;
+  font-size: 20px;
   font-weight: bold;
 }
 h2 {
   font-size: 20px;
-  font-weight: bold;
 }
 .container-fluid {
   margin: 0 auto;
