@@ -19,7 +19,7 @@ h2 {
 }
 
 .hero-unit.home {
-  background-color: #EEE1EE;
+  background-color: transparent;
   border-radius: 18px;
   border: 2px solid #BC9E5F;
   padding-top:25px;
