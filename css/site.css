@@ -117,13 +117,6 @@ body {
         margin: -20px 0;
       }
 
-      .carousel .item {
-        height: 500px;
-      }
-      .carousel img {
-        width: auto;
-        height: 500px;
-      }
     }
 
 
@@ -132,6 +125,14 @@ body {
       .navbar-inner {
         margin: -20px;
       }
+      .carousel {
+        margin-left: -20px;
+        margin-right: -20px;
+      }
+      .carousel .container {
 
-
+      }
+      .carousel-caption h1 {
+        font-size: 30px;
+      }
     }
