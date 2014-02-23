@@ -4,14 +4,14 @@ body {
 h1,
 h2
 {
-  font-family: 'courier new',nazanin,tahoma;
+  font-family: nazanin,'courier new',tahoma;
 }
 h1 {
   font-size: 24px;
   font-weight: bold;
 }
 h2 {
-  font-size: 14px;
+  font-size: 20px;
   font-weight: bold;
 }
 .container-fluid {
