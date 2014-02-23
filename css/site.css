@@ -20,7 +20,8 @@ h2 {
 
 .hero-unit.home {
   border-bottom: 1px solid #BC9E5F;
-  padding: 10px;
+  padding-top:25px;
+  padding-bottom:5px;
   text-align: center;
 }
 .hero-unit.home h1 {
