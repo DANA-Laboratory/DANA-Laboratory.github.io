@@ -82,18 +82,3 @@ body {
     .navbar .btn-navbar {
       margin-top: 10px;
     }
-
-
-    /* RESPONSIVE CSS
-    -------------------------------------------------- */
-    @media (max-width: 979px) {
-
-      .container.navbar-wrapper {
-        margin-bottom: 0;
-        width: auto;
-      }
-      .navbar-inner {
-        border-radius: 0;
-        margin: -20px 0;
-      }
-  }
