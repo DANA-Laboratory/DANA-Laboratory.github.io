@@ -1,10 +1,10 @@
 body {
-  font-family: sans-serif,'courier new',Arial;
+  font-family: sans-serif,tahoma,Arial;
 }
 h1,
 h2
 {
-  font-family: Arial;
+  font-family: 'courier new';
 }
 h1 {
   font-size: 24px;
