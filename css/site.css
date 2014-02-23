@@ -4,13 +4,13 @@ body {
 h1,
 h2
 {
-  font-family: IranNastaliq;
+  font-family: tahoam;
 }
 h1 {
-  font-size: 72px;
+  font-size: 24px;
 }
 h2 {
-  font-size: 48px;
+  font-size: 20px;
 }
 .container-fluid {
   margin: 0 auto;
