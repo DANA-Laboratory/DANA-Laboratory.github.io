@@ -23,7 +23,7 @@ h2 {
   padding: 10px;
   text-align: center;
 }
-.hero-unit h1 {
+.hero-unit.home h1 {
   letter-spacing: 0px;
 }
 /* CUSTOMIZE THE NAVBAR
