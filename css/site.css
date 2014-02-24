@@ -8,7 +8,7 @@ h1,
 h2
 {
   font-family: IranNastaliq;
-  src: url('https://github.com/DANA-Laboratory/DANA-Laboratory.github.io/blob/master/fonts/IranNastaliq.ttf') format('truetype');
+  src: url('../fonts/IranNastaliq.ttf') format('truetype');
 }
 h2 {
   font-size: 36px;
