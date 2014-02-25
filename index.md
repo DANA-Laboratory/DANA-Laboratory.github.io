@@ -169,7 +169,7 @@ C_Sharp|[ ]|[ ]|[X]|[X]|[X]|[X]|[X]
 
 - **برنامه نویسی**
 
-علاوه بر ابزارهای تخصصی زبانهای مختلف برنامه نویسی [Notpadpp](notepad-plus-plus.org/‎) یکی از ابزارهای محبوب متن باز میباشد. بعد از نصب این نرم افزار جهت برنامه نویسی به زبان Julia [Julia Syntax Highlighting for Notepadpp](\assets\Resources\julia.xml) را در از Notpadpp->View->User-Defined Dialogue اضافه نمایید.  
+علاوه بر ابزارهای تخصصی زبانهای مختلف برنامه نویسی [Notpadpp](notepad-plus-plus.org/‎) یکی از ابزارهای محبوب متن باز میباشد. بعد از نصب این نرم افزار جهت برنامه نویسی به زبان Julia [Julia Syntax Highlighting for Notepadpp](/assets/Resources/julia.xml) را در از Notpadpp->View->User-Defined Dialogue اضافه نمایید.  
 
 ----------------
 
