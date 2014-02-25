@@ -1,6 +1,6 @@
 ---
 published: true
-permalink: /
+permalink: /faq.html
 layout: hero
 filename: faq.md
 title: آزمایشگاه مدلسازی فرآیند دانا
