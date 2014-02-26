@@ -23,11 +23,8 @@ desc: آزمایشگاه دانا، یک پروژه متن باز جهت توس�
 مجموعه خانه مهندسین جوان اهواز[مجموعه خانه مهندسین جوان اهواز](http://www.ayehco.com/)، و مهندس [خوران](http://engg.scu.ac.ir/khooran)  مدیریت محترم مجموعه از مشاورین و حامیان پروژه دانا می باشند
 
 
-```JavaScript
-  function newMake() 
-   { 
-      a = a + 3;
-      b = a + siz makeSub(a,b);
-      return subsent 
-    }
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
 ```
