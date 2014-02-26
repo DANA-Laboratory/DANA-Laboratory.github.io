@@ -7,9 +7,7 @@ body {
 h1,
 h2
 {
-  font-family: '2 Traffic',tahoma, Arial;
-  src: url('../assets/fonts/Traffic.ttf') format('truetype');
-  src: url('../assets/fonts/Traffic.otf') format('opentype');
+  font-family:  'Far.TrafcBd',tahoma, Arial;
 }
 h2 {
   font-size: 16px;
