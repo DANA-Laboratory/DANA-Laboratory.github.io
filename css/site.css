@@ -8,8 +8,8 @@ h1,
 h2
 {
   font-family: '2 Traffic',tahoma, Arial;
-  src: url('../fonts/traffic.ttf') format('truetype');
-  src: url('../fonts/traffic.otf') format('opentype');
+  src: url('../assets/fonts/Traffic.ttf') format('truetype');
+  src: url('../assets/fonts/Traffic.otf') format('opentype');
 }
 h2 {
   font-size: 16px;
