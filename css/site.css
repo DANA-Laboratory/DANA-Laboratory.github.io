@@ -10,11 +10,11 @@ h3
 {
   font-family:  tahoma, Arial;
 }
-h2 {
+h3 {
   font-size: 12px;
   }
 h2 {
-  font-size: 12px;
+  font-size: 18px;
   }
 .container-fluid {
   margin: 0 auto;
@@ -33,7 +33,7 @@ h2 {
 }
 .hero-unit.home h1 {
   letter-spacing: 0px;
-  font-size: 12px;
+  font-size: 24px;
 }
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
