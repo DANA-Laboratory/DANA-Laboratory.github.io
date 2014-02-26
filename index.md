@@ -1,4 +1,4 @@
----
+﻿---
 published: true
 permalink: /
 layout: hero
