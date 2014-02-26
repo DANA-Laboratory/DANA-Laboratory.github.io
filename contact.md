@@ -10,7 +10,7 @@ desc: آزمایشگاه دانا، یک پروژه متن باز جهت توس�
 [![Go to server website](/assets/img/DANA_ServerSmall.png "DANA-Laboratory Client Site")](/DANA-Laboratory.jl)
 [![Go to client website](/assets/img/DANA_ClientSmall.png "DANA-Laboratory Server Site")](/DANA-Laboratory.java)
 
-###در صورت تمایل به دریافت اطلاعات بیشتر میتوانید با اینجانب رضا افضلان تماس حاصل نمایید
+##در صورت تمایل به دریافت اطلاعات بیشتر لطفا با اینجانب رضا افضلان تماس حاصل نمایید
 
 ##آدرس
 
