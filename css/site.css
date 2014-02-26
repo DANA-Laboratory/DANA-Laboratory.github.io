@@ -7,9 +7,9 @@ body {
 h1,
 h2
 {
-  font-family: '2 Traffic',tahoma, Arial;;
-  src: url('https://github.com/DANA-Laboratory/DANA-Laboratory.github.io/blob/master/fonts/traffic.ttf') format('truetype');
-  src: url('https://github.com/DANA-Laboratory/DANA-Laboratory.github.io/blob/master/fonts/traffic.otf') format('opentype');
+  font-family: '2 Traffic',tahoma, Arial;
+  src: url('../fonts/traffic.ttf') format('truetype');
+  src: url('../fonts/traffic.otf') format('opentype');
 }
 h2 {
   font-size: 16px;
