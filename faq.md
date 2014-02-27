@@ -3,8 +3,8 @@ published: true
 permalink: /faq.html
 layout: hero
 filename: faq.md
-title: آزمایشگاه مدلسازی فرآیند دانا
-desc: آزمایشگاه دانا، یک پروژه متن باز جهت توسعه نرم افزار مدلسازی فرآیند، براساس معادلات و با اهداف آموزشی می باشد
+title: پاسخ به چند سوال
+desc: 
 ---
 
 [![Go to server website](/assets/img/DANA_ServerSmall.png "DANA-Laboratory Client Site")](/DANA-Laboratory.jl)
