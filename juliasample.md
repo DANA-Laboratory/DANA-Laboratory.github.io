@@ -5,7 +5,6 @@ layout: julia
 filename: juliasample.md
 ---
 
-```julia
 function testIDealGasForNonlinearSolver()
   ######Temprature is undef#######
   DNIdel=DANAIdealGasEos()
@@ -26,4 +25,4 @@ function testIDealGasForNonlinearSolver()
   #a=replace(DNIdel)
   #println(a)
 end
-```
+
