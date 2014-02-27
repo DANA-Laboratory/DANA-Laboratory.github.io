@@ -16,5 +16,3 @@ exclude: ["script", "vendor", "Gemfile", "Gemfile.lock", "config.ru", "Procfile"
 #need for highlighting
 markdown: redcarpet
 relative_permalinks: false
-#need for line numbering
-lineanchors: true
