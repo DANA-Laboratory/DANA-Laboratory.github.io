@@ -11,15 +11,15 @@ function testIDealGasForNonlinearSolver()
   DNIdel=DANAIdealGasEos()
   DNIdel.P=2000.0
   DNIdel.Cp=629657.0
-  DNIdel.CASNO=‚Äù95-63-6‚Äù
+  DNIdel.CASNO=î95-63-6î
   DNIdel.usePolynomialEstimationOfCp=true
-  DNIdel.C1,DNIdel.C2,DNIdel.C3,DNIdel.C4,DNIdel.C5 = C0Poly(‚Äú95-63-6‚Äù)
+  DNIdel.C1,DNIdel.C2,DNIdel.C3,DNIdel.C4,DNIdel.C5 = C0Poly(ì95-63-6î)
   setEquationFlow(DNIdel)
   somthingUpdated=true
   fullDetermined=false
   while (somthingUpdated &amp;&amp; !fullDetermined)
     rVls,vars=solve(DNIdel)
-    println(‚Äú<strong>**</strong><strong>**</strong>one solution done<strong>**</strong><strong>**</strong>‚Äù)
+    println(ì<strong>**</strong><strong>**</strong>one solution done<strong>**</strong><strong>**</strong>î)
     somthingUpdated,fullDetermined=update!(DNIdel,rVls,vars)
   end
   dump(DNIdel)
