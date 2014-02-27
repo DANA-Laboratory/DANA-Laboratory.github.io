@@ -17,4 +17,4 @@ exclude: ["script", "vendor", "Gemfile", "Gemfile.lock", "config.ru", "Procfile"
 markdown: redcarpet-pygments  
 relative_permalinks: false
 #need for line numbering
-
+lineanchors: true
