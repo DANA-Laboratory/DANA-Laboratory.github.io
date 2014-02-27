@@ -6,7 +6,7 @@ title: Something with codes
 Happy fun highlighting. 
 [More details](https://github.com/mojombo/jekyll/wiki/liquid-extensions)
 
-{% highlight python %}
+```python
 def yourfunction():
      print "Hello World!"
-{% endhighlight %}
+```
