@@ -3,8 +3,8 @@ published: true
 permalink: /juliasample.html
 layout: hero
 filename: juliasample.md
-title: ÂÒãÇíÔÇå ãÏáÓÇÒí İÑÂíäÏ ÏÇäÇ
-desc: ÂÒãÇíÔÇå ÏÇäÇ¡ í˜ Ñæå ãÊä ÈÇÒ ÌåÊ ÊæÓÚå äÑã ÇİÒÇÑ ãÏáÓÇÒí İÑÂíäÏ¡ ÈÑÇÓÇÓ ãÚÇÏáÇÊ æ ÈÇ ÇåÏÇİ ÂãæÒÔí ãí ÈÇÔÏ
+title: Ø¢Ø²Ù…Ø§ÙŠØ´Ú¯Ø§Ù‡ Ù…Ø¯Ù„Ø³Ø§Ø²ÙŠ ÙØ±Ø¢ÙŠÙ†Ø¯ Ø¯Ø§Ù†Ø§
+desc: Ø¢Ø²Ù…Ø§ÙŠØ´Ú¯Ø§Ù‡ Ø¯Ø§Ù†Ø§ØŒ ÙŠÚ© Ù¾Ø±ÙˆÚ˜Ù‡ Ù…ØªÙ† Ø¨Ø§Ø² Ø¬Ù‡Øª ØªÙˆØ³Ø¹Ù‡ Ù†Ø±Ù… Ø§ÙØ²Ø§Ø± Ù…Ø¯Ù„Ø³Ø§Ø²ÙŠ ÙØ±Ø¢ÙŠÙ†Ø¯ØŒ Ø¨Ø±Ø§Ø³Ø§Ø³ Ù…Ø¹Ø§Ø¯Ù„Ø§Øª Ùˆ Ø¨Ø§ Ø§Ù‡Ø¯Ø§Ù Ø¢Ù…ÙˆØ²Ø´ÙŠ Ù…ÙŠ Ø¨Ø§Ø´Ø¯
 ---
 
 ```julia
@@ -13,15 +13,15 @@ function testIDealGasForNonlinearSolver()
   DNIdel=DANAIdealGasEos()
   DNIdel.P=2000.0
   DNIdel.Cp=629657.0
-  DNIdel.CASNO=”95-63-6”
+  DNIdel.CASNO=â€95-63-6â€
   DNIdel.usePolynomialEstimationOfCp=true
-  DNIdel.C1,DNIdel.C2,DNIdel.C3,DNIdel.C4,DNIdel.C5 = C0Poly(“95-63-6”)
+  DNIdel.C1,DNIdel.C2,DNIdel.C3,DNIdel.C4,DNIdel.C5 = C0Poly(â€œ95-63-6â€)
   setEquationFlow(DNIdel)
   somthingUpdated=true
   fullDetermined=false
   while (somthingUpdated &amp;&amp; !fullDetermined)
     rVls,vars=solve(DNIdel)
-    println(“<strong>**</strong><strong>**</strong>one solution done<strong>**</strong><strong>**</strong>”)
+    println(â€œ<strong>**</strong><strong>**</strong>one solution done<strong>**</strong><strong>**</strong>â€)
     somthingUpdated,fullDetermined=update!(DNIdel,rVls,vars)
   end
   dump(DNIdel)
