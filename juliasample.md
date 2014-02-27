@@ -1,8 +1,10 @@
 ---
 published: true
 permalink: /juliasample.html
-layout: julia
+layout: julia.html
 filename: juliasample.md
+title: ÂÒãÇíÔÇå ãÏáÓÇÒí İÑÂíäÏ ÏÇäÇ
+desc: ÂÒãÇíÔÇå ÏÇäÇ¡ í˜ Ñæå ãÊä ÈÇÒ ÌåÊ ÊæÓÚå äÑã ÇİÒÇÑ ãÏáÓÇÒí İÑÂíäÏ¡ ÈÑÇÓÇÓ ãÚÇÏáÇÊ æ ÈÇ ÇåÏÇİ ÂãæÒÔí ãí ÈÇÔÏ
 ---
 
 ```julia
