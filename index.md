@@ -10,6 +10,28 @@ desc: آزمایشگاه دانا، یک پروژه متن باز جهت توس�
 [![Go to server website](/assets/img/DANA_ServerSmall.png "DANA-Laboratory Client Site")](/DANA-Laboratory.jl)
 [![Go to client website](/assets/img/DANA_ClientSmall.png "DANA-Laboratory Server Site")](/DANA-Laboratory.java)
 
+```julia
+  function testIDealGasForNonlinearSolver()
+    ######Temprature is undef#######
+    DNIdel=DANAIdealGasEos()
+    DNIdel.P=2000.0
+    DNIdel.Cp=629657.0
+    DNIdel.CASNO="95-63-6"
+    DNIdel.usePolynomialEstimationOfCp=true
+    DNIdel.C1,DNIdel.C2,DNIdel.C3,DNIdel.C4,DNIdel.C5 = C0Poly("95-63-6")
+    setEquationFlow(DNIdel)
+    somthingUpdated=true
+    fullDetermined=false
+    while (somthingUpdated && !fullDetermined)
+      rVls,vars=solve(DNIdel)
+      println("************one solution done************")
+      somthingUpdated,fullDetermined=update!(DNIdel,rVls,vars)
+    end
+    dump(DNIdel)
+    #a=replace(DNIdel)
+    #println(a)
+  end
+```
 ##1. مقدمه
 
 مدلسازي تجهيزات فرآيندي در صنعت مهم نفت يکي از رهيافت هاي بنيادي جهت کسب دانش فني و توسعه نرم افزاري اين صنعت به شمار مي آيد. 
