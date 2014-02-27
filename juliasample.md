@@ -1,7 +1,7 @@
 ---
 published: true
 permalink: /juliasample.html
-layout: hero
+layout: julia
 filename: juliasample.md
 title: آزمايشگاه مدلسازي فرآيند دانا
 desc: آزمايشگاه دانا، يک پروژه متن باز جهت توسعه نرم افزار مدلسازي فرآيند، براساس معادلات و با اهداف آموزشي مي باشد
