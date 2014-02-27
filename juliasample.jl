@@ -1,10 +1,3 @@
----
-published: true
-permalink: /juliasample.html
-layout: julia
-filename: juliasample.md
----
-
 function testIDealGasForNonlinearSolver()
   ######Temprature is undef#######
   DNIdel=DANAIdealGasEos()
