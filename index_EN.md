@@ -1,6 +1,6 @@
 ---
 published: false
-permalink: /
+permalink: /en.html
 layout: hero
 filename: index.md
 title: DANA Laboratory for process modeling 
