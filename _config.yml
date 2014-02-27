@@ -16,5 +16,5 @@ exclude: ["script", "vendor", "Gemfile", "Gemfile.lock", "config.ru", "Procfile"
 #need for highlighting
 markdown: redcarpet
 redcarpet:
-  extensions: ["tables"]
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 relative_permalinks: false
