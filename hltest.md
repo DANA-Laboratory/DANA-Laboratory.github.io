@@ -1,10 +1,8 @@
 ---
 layout: default
 title: Something with codes
+filename: hltest.md
 ---
-
-Happy fun highlighting. 
-[More details](https://github.com/mojombo/jekyll/wiki/liquid-extensions)
 
 ```python
 def yourfunction():
