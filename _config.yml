@@ -14,5 +14,7 @@ prose_url: http://prose.io
 pymgemnts: true
 exclude: ["script", "vendor", "Gemfile", "Gemfile.lock", "config.ru", "Procfile", "Rakefile", "readme.md"]
 #need for highlighting
-markdown: kramdown
+markdown: redcarpet
+redcarpet:
+  extensions: [:tables]
 relative_permalinks: false
