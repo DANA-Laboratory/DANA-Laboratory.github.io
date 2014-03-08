@@ -7,9 +7,6 @@ title: حامیان پروژه
 desc: 
 ---
 
-[![Go to server website](/assets/img/DANA_ServerSmall.png "DANA-Laboratory Client Site")](/DANA-Laboratory.jl)
-[![Go to client website](/assets/img/DANA_ClientSmall.png "DANA-Laboratory Server Site")](/DANA-Laboratory.java)
-
 ###شرکت ره آوران فنون پتروشیمی
 
 پروژه دانا با حمايت شرکت ره آوران فنون پتروشيمي آغاز شده است.

@@ -7,9 +7,6 @@ title: اطلاعات تماس
 desc: 
 ---
 
-[![Go to server website](/assets/img/DANA_ServerSmall.png "DANA-Laboratory Client Site")](/DANA-Laboratory.jl)
-[![Go to client website](/assets/img/DANA_ClientSmall.png "DANA-Laboratory Server Site")](/DANA-Laboratory.java)
-
 ###در صورت تمایل به دریافت اطلاعات بیشتر لطفا با اینجانب رضا افضلان تماس حاصل نمایید
 
 ###آدرس
