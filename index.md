@@ -164,11 +164,11 @@ C_Sharp|[ ]|[ ]|[X]|[X]|[X]|[X]|[X]
 جهت ارتباط موثر با GitHub میتوانید از واسط کاربری ذیل استفاده نمایید:
 [GitHubSetup](http://github-windows.s3.amazonaws.com/GitHubSetup.exe)
 در صورت نصب واسط کاربری GitHub نرم افزار Git هم بصورت خودکار نصب خواهد شد.
-نرم افزار Git را با ظاهری لینوکسی و قابلیت های بیشتر می توانید از <http://msysgit.github.io/> دریافت نمایید.
+نرم افزار Git را با ظاهری لینوکسی و قابلیت های بیشتر می توانید از <http://msysgit.github.io> دریافت نمایید.
 
 - **برنامه نویسی**
 
-علاوه بر ابزارهای تخصصی زبانهای مختلف برنامه نویسی [Notpadpp](http://notepad-plus-plus.org/‎) یکی از ابزارهای محبوب متن باز میباشد. بعد از نصب این نرم افزار جهت برنامه نویسی به زبان Julia [Julia Syntax Highlighting for Notepadpp](/assets/Resources/julia.xml) را در از Notpadpp->View->User-Defined Dialogue اضافه نمایید.  
+علاوه بر ابزارهای تخصصی زبانهای مختلف برنامه نویسی [Notpadpp](http://notepad-plus-plus.org/download) یکی از ابزارهای محبوب متن باز میباشد. بعد از نصب این نرم افزار جهت برنامه نویسی به زبان Julia [Julia Syntax Highlighting for Notepadpp](/assets/Resources/julia.xml) را در از Notpadpp->View->User-Defined Dialogue اضافه نمایید.  
 
 ----------------
 
