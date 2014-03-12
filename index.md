@@ -174,7 +174,7 @@ C_Sharp|[ ]|[ ]|[X]|[X]|[X]|[X]|[X]
 
 ##5. منابع
 
-1-[آشنایی با پروژه دانا برای دانشجویان](/assets/Resources/DANA-Lab-for-students.pptx)
+1. [آشنایی با پروژه دانا برای دانشجویان](/assets/Resources/DANA-Lab-for-students.pptx)
 
 ----------------
 
