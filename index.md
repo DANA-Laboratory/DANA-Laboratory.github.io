@@ -153,6 +153,8 @@ C_Sharp|[ ]|[ ]|[X]|[X]|[X]|[X]|[X]
 
 ##3. راهنماها
 
+1. [آموزش جولیا در چند دقیقه](/assets/pdf/Learnjulia.pdf)
+
 ----------------
 
 ##4. ابزارها 
@@ -178,7 +180,9 @@ C_Sharp|[ ]|[ ]|[X]|[X]|[X]|[X]|[X]
 
 ----------------
 
-##6. مثالها
+##6. پیوندها
 
+1. [Out in the Open: Man Creates One Programming Language to Rule Them All] (http://www.wired.com/2014/02/julia/)
+2. [Why I’m Betting on Julia] (http://www.evanmiller.org/why-im-betting-on-julia.html)
 
 **For Developers: [View all appendices](http://github.com/{{ site.repo_name }}/) (and source)**‎
