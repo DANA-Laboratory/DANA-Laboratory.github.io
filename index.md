@@ -178,6 +178,7 @@ C_Sharp|[ ]|[ ]|[X]|[X]|[X]|[X]|[X]
 ##5. منابع
 
 1. [پاورپوینت آشنایی با پروژه دانا برای دانشجویان](/assets/Resources/DANA-Lab-for-students.pptx)
+2. [پاورپوینت برای کنفرانس مکانیک](/assets/Resources/DANA-Lab-for-Mech93.pptx)
 
 ----------------
 
