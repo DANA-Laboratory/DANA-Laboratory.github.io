@@ -154,6 +154,7 @@ C_Sharp|[ ]|[ ]|[X]|[X]|[X]|[X]|[X]
 ##3. راهنماها
 
 1. [آموزش جولیا در چند دقیقه](/assets/pdf/Learnjulia.pdf)
+2. [مثال عملی: مدلسازی و تحلیل معادلات گاز کامل](/assets/pdf/FullSample_IdealGas.pdf)
 
 ----------------
 
