@@ -188,5 +188,6 @@ C_Sharp|[ ]|[ ]|[X]|[X]|[X]|[X]|[X]
 2. [Why I’m Betting on Julia] (http://www.evanmiller.org/why-im-betting-on-julia.html)
 3. [Julia: A New Language For Technical Computing] (http://www.admin-magazine.com/HPC/Articles/Julia-A-New-Language-For-Technical-Computing)
 4. [Parallel Julia] (http://www.admin-magazine.com/HPC/Articles/Parallel-Julia-Jumping-Right-In)
+5. [Easy Peasy Parallel: Julia Distributed Arrays] (http://www.admin-magazine.com/HPC/Articles/Julia-Distributed-Arrays/(language)/eng-US)
 
 **For Developers: [View all appendices](http://github.com/{{ site.repo_name }}/) (and source)**‎
